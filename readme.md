@@ -29,4 +29,4 @@ Check the implementation in the third person character it contains the mouse sel
 
 ## Installation
 
-1. Close the repository and press play to test the project.
+1. Clone the repository and press play to test the project, them migrate the folder _HudSelection, to check how it works check the actor BP_ThirdPersonCharacter everything is comment with the green color
