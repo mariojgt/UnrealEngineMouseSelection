@@ -29,4 +29,10 @@ Check the implementation in the third person character it contains the mouse sel
 
 ## Installation
 
-1. Clone the repository and press play to test the project, them migrate the folder _HudSelection, to check how it works check the actor BP_ThirdPersonCharacter everything is comment with the green color
+1. First in you scene add a post process volume and search for post process material and add the material click to add one and select M_Hightlight, this process will have so we can highlight the selected actor.
+
+2: in the post process volume search infinite extend (unbound) that will make so the post process material will be visible in the entire scene.
+
+3: in you player character add the BPC_DragSelection component.
+
+More information please check the BP_ThirdPersonCharacter actor as it has all the logic implemented.
