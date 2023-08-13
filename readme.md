@@ -12,7 +12,7 @@ Welcome to the **Unreal Engine Mouse Selection Project** repository! This projec
 - [License](#license)
 
 ## Demo
-
+![Mouse Selection Demo](https://raw.githubusercontent.com/mariojgt/UnrealEngineMouseSelection/main/imgs/feature.png)
 Check the implementation in the third person character it contains the mouse selection component and the mouse selection widget.
 
 ## Features
